@@ -1,0 +1,16 @@
+set nocompatible
+syntax enable
+set bg=dark
+set wildmenu
+set showcmd
+set hlsearch
+set incsearch
+set ignorecase
+set smartcase
+set mouse=a
+set relativenumber
+set number
+set ruler
+set et
+set ts=4
+set sw=4
